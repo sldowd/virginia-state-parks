@@ -1,12 +1,257 @@
 
 {
-    "parks": [
-        {
-            "id": "0",
-            "name": "",
-            "location": "",
-            "size": ""
-            
-        }
-    ]
+  "parks": [
+    {
+      "id": "0",
+      "name": "Bear Creek State Park",
+      "location": "Cumberland",
+      "website": "http://www.dcr.virginia.gov/state_parks/bea.shtml"
+    },
+    {
+      "id": "1",
+      "name": "Belle Isle State Park",
+      "location": "Lancaster",
+      "website": "http://www.dcr.virginia.gov/state_parks/bel.shtml"
+    },
+    {
+      "id": "2",
+      "name": "Breaks Interstate Park",
+      "location": "Breaks",
+      "website": "http://www.breakspark.com/"
+    },
+    {
+      "id": "3",
+      "name": "Caledon Natural Area",
+      "location": "King George",
+      "website": "http://www.dcr.virginia.gov/state_parks/cal.shtml"
+    },
+    {
+      "id": "4",
+      "name": "Chippokes Plantation State Park",
+      "location": "Surry",
+      "website": "http://www.dcr.virginia.gov/state_parks/chi.shtml"
+    },
+    {
+      "id": "5",
+      "name": "Claytor Lake State Park",
+      "location": "Dublin",
+      "website": "http://www.dcr.virginia.gov/state_parks/cla.shtml"
+    },
+    {
+      "id": "6",
+      "name": "Clinch River State Park",
+      "location": "St. Paul",
+      "website": "https://www.dcr.virginia.gov/state-parks/clinch-river"
+    },
+    {
+      "id": "7",
+      "name": "Douthat State Park",
+      "location": "Millboro",
+      "website": "http://www.dcr.virginia.gov/state_parks/dou.shtml"
+    },
+    {
+      "id": "8",
+      "name": "Fairy Stone State Park",
+      "location": "Stuart",
+      "website": "http://www.dcr.virginia.gov/state_parks/fai.shtml"
+    },
+    {
+      "id": "9",
+      "name": "False Cape State Park",
+      "location": "Virginia Beach",
+      "website": "http://www.dcr.virginia.gov/state_parks/fal.shtml"
+    },
+    {
+      "id": "10",
+      "name": "First Landing State Park",
+      "location": "Virginia Beach",
+      "website": "http://www.dcr.virginia.gov/state_parks/fir.shtml"
+    },
+    {
+      "id": "11",
+      "name": "Grayson Highlands State Park",
+      "location": "Mouth of Wilson",
+      "website": "http://www.dcr.virginia.gov/state_parks/gra.shtml"
+    },
+    {
+      "id": "12",
+      "name": "High Bridge Trail State Park",
+      "location": "Farmville",
+      "website": "http://www.dcr.virginia.gov/state_parks/hig.shtml"
+    },
+    {
+      "id": "13",
+      "name": "Holliday Lake State Park",
+      "location": "Appomattox",
+      "website": "http://www.dcr.virginia.gov/state_parks/hol.shtml"
+    },
+    {
+      "id": "14",
+      "name": "Hungry Mother State Park",
+      "location": "Marion",
+      "website": "http://www.dcr.virginia.gov/state_parks/hun.shtml"
+    },
+    {
+      "id": "15",
+      "name": "James River State Park",
+      "location": "Gladstone",
+      "website": "http://www.dcr.virginia.gov/state_parks/jam.shtml"
+    },
+    {
+      "id": "16",
+      "name": "Kiptopeke State Park",
+      "location": "Cape Charles",
+      "website": "http://www.dcr.virginia.gov/state_parks/kip.shtml"
+    },
+    {
+      "id": "17",
+      "name": "Lake Anna State Park",
+      "location": "Spotsylvania",
+      "website": "http://www.dcr.virginia.gov/state_parks/lak.shtml"
+    },
+    {
+      "id": "18",
+      "name": "Leesylvania State Park",
+      "location": "Woodbridge",
+      "website": "http://www.dcr.virginia.gov/state_parks/lee.shtml"
+    },
+    {
+      "id": "19",
+      "name": "Machicomoco State Park",
+      "location": "Gloucester",
+      "website": "https://www.dcr.virginia.gov/state-parks/machicomoco"
+    },
+    {
+      "id": "20",
+      "name": "Mason Neck State Park",
+      "location": "Lorton",
+      "website": "http://www.dcr.virginia.gov/state_parks/mas.shtml"
+    },
+    {
+      "id": "21",
+      "name": "Middle Peninsula State Park",
+      "location": "Not Availablr",
+      "website": "https://www.dcr.virginia.gov/state-parks/blog/sneak-a-peek-at-middle-peninsula-state-park-3341"
+    },
+    {
+      "id": "22",
+      "name": "Natural Bridge State Park",
+      "location": "Natural Bridge",
+      "website": "http://www.dcr.virginia.gov/state-parks/natural-bridge"
+    },
+    {
+      "id": "23",
+      "name": "Natural Tunnel State Park",
+      "location": "Duffield",
+      "website": "http://www.dcr.virginia.gov/state_parks/nat.shtml"
+    },
+    {
+      "id": "24",
+      "name": "New River Trail State Park",
+      "location": "Fosters Falls",
+      "website": "http://www.dcr.virginia.gov/state_parks/new.shtml"
+    },
+    {
+      "id": "25",
+      "name": "Occoneechee State Park",
+      "location": "Clarksville",
+      "website": "http://www.dcr.virginia.gov/state_parks/occ.shtml"
+    },
+    {
+      "id": "26",
+      "name": "Pocahontas State Park",
+      "location": "Chesterfield",
+      "website": "http://www.dcr.virginia.gov/state_parks/poc.shtml"
+    },
+    {
+      "id": "27",
+      "name": "Powhatan State Park",
+      "location": "Powhatan",
+      "website": "http://www.dcr.virginia.gov/state_parks/pow.shtml"
+    },
+    {
+      "id": "28",
+      "name": "Sailor's Creek Battlefield State Park",
+      "location": "Rice",
+      "website": "http://www.dcr.virginia.gov/state_parks/sai.shtml"
+    },
+    {
+      "id": "29",
+      "name": "Seven Bends State Park",
+      "location": "Woodstock",
+      "website": "https://www.dcr.virginia.gov/state-parks/seven-bends"
+    },
+    {
+      "id": "30",
+      "name": "Shenandoah River State Park",
+      "location": "Bentonville",
+      "website": "http://www.dcr.virginia.gov/state_parks/and.shtml"
+    },
+    {
+      "id": "31",
+      "name": "Shot Tower Historical State Park",
+      "location": "Austinville",
+      "website": "http://www.dcr.virginia.gov/state_parks/shottowr.shtml"
+    },
+    {
+      "id": "32",
+      "name": "Sky Meadows State Park",
+      "location": "Delaplane",
+      "website": "http://www.dcr.virginia.gov/state_parks/sky.shtml"
+    },
+    {
+      "id": "33",
+      "name": "Smith Mountain Lake State Park",
+      "location": "Huddleston",
+      "website": "http://www.dcr.virginia.gov/state_parks/smi.shtml"
+    },
+    {
+      "id": "34",
+      "name": "Southwest Virginia Museum Historical State Park",
+      "location": "Big Stone Gap",
+      "website": "http://www.dcr.virginia.gov/state_parks/sou.shtml"
+    },
+    {
+      "id": "35",
+      "name": "Staunton River State Park",
+      "location": "Scottsburg",
+      "website": "http://www.dcr.virginia.gov/state_parks/sta.shtml"
+    },
+    {
+      "id": "36",
+      "name": "Staunton River Battlefield Park",
+      "location": "Randolph",
+      "website": "http://www.dcr.virginia.gov/state_parks/stb.shtml"
+    },
+    {
+      "id": "37",
+      "name": "Twin Lakes State Park",
+      "location": "Green Bay",
+      "website": "http://www.dcr.virginia.gov/state_parks/twi.shtml"
+    },
+    {
+      "id": "38",
+      "name": "Westmoreland State Park",
+      "location": "Montross",
+      "website": "http://www.dcr.virginia.gov/state_parks/wes.shtml"
+    },
+    {
+      "id": "39",
+      "name": "Widewater State Park",
+      "location": "Stafford",
+      "website": "https://www.dcr.virginia.gov/state-parks/widewater"
+    },
+    {
+      "id": "40",
+      "name": "Wilderness Road State Park",
+      "location": "Ewing",
+      "website": "http://www.dcr.virginia.gov/state_parks/wil.shtml"
+    },
+    {
+      "id": "41",
+      "name": "York River State Park",
+      "location": "Williamsburg",
+      "website": "http://www.dcr.virginia.gov/state_parks/yor.shtml"
+    }
+  ]
 }
