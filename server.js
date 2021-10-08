@@ -8,6 +8,6 @@ app.get('/api/parks', (req,res) => {
 })
 
 
-app.listen(3001, () =>{
-    console.log('API server listening on Port 3001');
+app.listen(3006, () =>{
+    console.log('API server listening on Port 3006');
 })
