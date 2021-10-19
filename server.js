@@ -24,7 +24,7 @@ app.get('/api/parks', (req,res) => {
         results = filterByQuery(req.query, results);
         console.log(req.query);
     }
-    res.json(parks);
+    res.json(results);
 })
 
 
